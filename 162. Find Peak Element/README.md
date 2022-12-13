@@ -5,8 +5,8 @@ A peak element is an element that is strictly greater than its neighbors.
 <h1>Solution</h1>
 
 <ul>
-<li>We need to <b>search</b> a element that is strictly greater than its neighbors in O(logn) time.</li>
-<li>Search Algorithm that works in logn time is <b>Binary Search</b></li>
+  <li>We need to <b>search</b> a element that is strictly greater than its neighbors in <b>O(logn)</b> time.</li>
+<li>Search Algorithm that works in "logn" time is <b>Binary Search</b></li>
 </ul>
 
 <pre>
